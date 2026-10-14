@@ -1,1 +1,5 @@
-# cs101-version-control-387
+# My CS Profile
+
+## About Me
+- Name: Benyasit Prompiman
+- Major: Computer Science
