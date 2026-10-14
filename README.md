@@ -12,3 +12,8 @@
 ## Technology Interests
 - Artificial Intelligence
 - Data science
+
+## Skills
+- Problem solving
+- C basics
+- Teamwork
