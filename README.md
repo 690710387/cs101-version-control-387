@@ -8,3 +8,7 @@
 - Programming in Python like a pro
 - Use Git and GitHub like a pro
 - Build a personal website
+
+## Technology Interests
+- Artificial Intelligence
+- Data science
